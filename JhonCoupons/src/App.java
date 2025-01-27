@@ -14,6 +14,7 @@ public class App {
     public static void main(String[] args) throws SQLException, InvalidUserInfoException, TitleAlreadyExistException, ParseException, UnablePurchaseException, CompanyAlreadyExistException, EmailAlreadyExistException {
 
         Testing.testAll();
+        System.out.println("server is running");
 
     }
 }
