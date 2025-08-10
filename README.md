@@ -229,7 +229,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Noam Shalev**
 - GitHub: [@noamshalev4](https://github.com/noamshalev4)
-- LinkedIn: [Connect with me](https://linkedin.com/in/noam-shalev)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/noam-shalev-701b75335/)
 
 ## 🙏 Acknowledgments
 
